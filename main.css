@@ -1,4 +1,4 @@
-*{
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -18,7 +18,7 @@ body, input, textarea {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
+    background-color: brown;
     color: #fff;
 }
 
@@ -67,11 +67,11 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #000000;
 }
 
 section p {
-    margin-bottom: 8px;
+    margin-bottom: 32px;
 }
 
 .store-front {
@@ -121,22 +121,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #ff0000;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314c96;
+    background-color: #000000;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #ff0000;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #070708;
     color: #fff;
     padding: 16px 0;
 }
